@@ -1,0 +1,25 @@
+SKLADOVA NALICHNOST - PYTHON PROEKT
+
+Tema:
+Proektat e programa za upravlenie na skladova nalichnost.
+
+Failove:
+1. models.py - sudurja klasa Inventory i negovite metodi.
+2. main.py - glavniyat fail, ot koito se startira programata.
+
+python main.py
+
+Funkcionalnosti:
+- Dobavyane na produkt
+- Premahvane na produkt
+- Tursene na produkt
+- Pokazvane na vsichki produkti
+- Izchislyavane na obshta stoynost na sklada
+
+Proektat izpolzva:
+- Klas
+- Obekt
+- Metodi
+- Self
+- Cikli
+- Uslovni operatori
